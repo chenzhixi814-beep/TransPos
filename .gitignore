@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# virtual environments
+.venv/
+venv/
+env/
+
+# PyInstaller build artifacts (for the eventual Windows packaging step)
+build/
+dist/
+*.spec
+
+# OS cruft
+.DS_Store
+Thumbs.db
